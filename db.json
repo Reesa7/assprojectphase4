@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "reesa",
+      "LastName": "rejoice",
+      "email": "reesa@gmail.com"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
